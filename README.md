@@ -11,17 +11,17 @@ These are some examples of data analysis using [Python](/jupyter-notebooks)
 
 ## Maintenance Requests
 
-Simple Django project to manage maintenance requests. [Here](/maintenancerequests)
+Simple Django project to manage maintenance requests. [Here](../maintenancerequests)
 
 
 ## Quotations
 
-Simple Django project to manage quotations. [Here](/schoolquotations)
+Simple Django project to manage quotations. [Here](../schoolquotations)
 
 
 
 ## Helsinki Bike APP
 
-Excersie project to manage bike trips data. [Here](/bikeapp)
+Excersie project to manage bike trips data. [Here](../bikeapp)
 
 
