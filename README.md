@@ -25,3 +25,12 @@ Simple Django project to manage quotations. [Here](https://github.com/ahmedeleve
 Excersie project to manage bike trips data. [Here](https://github.com/ahmedeleven/bikeapp)
 
 
+## Apu Ankka
+
+A web app that allows users to request and provide simple services to each other while offering a small fee for the services rendered
+
+ The app front-end [Here](https://github.com/ahmedeleven/apuankka-frontend)
+
+ The app back-end [Here](https://github.com/ahmedeleven/apuankka-backend)
+
+
