@@ -29,8 +29,8 @@ Excersie project to manage bike trips data. [Here](https://github.com/ahmedeleve
 
 A web app that allows users to request and provide simple services to each other while offering a small fee for the services rendered
 
- The app front-end [Here](https://github.com/ahmedeleven/apuankka-frontend)
+ [Front-End](https://github.com/ahmedeleven/apuankka-frontend)
 
- The app back-end [Here](https://github.com/ahmedeleven/apuankka-backend)
+ [Back-End](https://github.com/ahmedeleven/apuankka-backend)
 
 
